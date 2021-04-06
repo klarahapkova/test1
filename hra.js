@@ -1,3 +1,3 @@
 "use strict";
 
-const git = () => {console.log("Ahoj světe!")};
+const git = () => {console.log("Ahoj lidičky!")};
